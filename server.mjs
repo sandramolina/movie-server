@@ -15,5 +15,3 @@ app.use('/record', records);
 app.listen(PORT, () => {
   console.log(`Server is running on port: ${PORT}`);
 });
-
-// mongodb+srv://smolinapalencia:<password>@molina.bhcrs3s.mongodb.net/?retryWrites=true&w=majority

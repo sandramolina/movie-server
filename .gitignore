@@ -1,1 +1,3 @@
 node_modules
+// My .env in on the local repo so this is not shared online
+.env
